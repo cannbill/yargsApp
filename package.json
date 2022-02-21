@@ -1,0 +1,23 @@
+{
+  "name": "yargsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannbill/yargsApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cannbill/yargsApp/issues"
+  },
+  "homepage": "https://github.com/cannbill/yargsApp#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
